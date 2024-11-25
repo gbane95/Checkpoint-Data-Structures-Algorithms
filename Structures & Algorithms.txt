@@ -1,0 +1,26 @@
+Structures de données
+
+1-Table de hachage (Hash Table)
+
+Pourquoi je ne la maîtrise pas encore : Bien que je comprenne le principe de base des tables de hachage, j'ai encore des difficultés à comprendre comment elles gèrent les collisions de manière efficace et les différentes techniques de gestion de ces collisions comme le chaînage ou le sondage.
+
+2-Arbre AVL (AVL Tree)
+
+Pourquoi je ne la maîtrise pas encore : Je suis familier avec les arbres binaires de recherche, mais je trouve difficile de bien saisir la logique des rééquilibrages dans un arbre AVL, notamment les rotations qui peuvent être nécessaires après chaque insertion ou suppression pour maintenir l'équilibre.
+
+3-Arbre B (B-Tree)
+
+Pourquoi je ne la maîtrise pas encore : Les arbres B sont utilisés principalement dans les bases de données et les systèmes de fichiers, et je n'ai pas encore eu l'occasion de les explorer en détail. La gestion des nœuds et des clés dans des structures aussi larges m'est encore floue.
+
+Algorithmes de tri
+4-Tri Radix (Radix Sort)
+
+Pourquoi je ne le maîtrise pas encore : Bien que je comprenne les principes de base du tri radix (basé sur les chiffres), je trouve difficile de comprendre les cas où il est vraiment plus performant que d'autres algorithmes de tri, en particulier lorsqu'il s'agit de données complexes ou très hétérogènes.
+
+5-Tri par Tas (Heap Sort)
+
+Pourquoi je ne le maîtrise pas encore : Le fonctionnement des tas binaires et la façon dont le tri par tas est effectué (en utilisant les propriétés d'un tas max ou min) m'est encore partiellement opaque, notamment l'optimisation des opérations de fusion et de suppression d'éléments du tas.
+
+6-Tri Cocktail (Cocktail Sort)
+
+Pourquoi je ne le maîtrise pas encore : Je suis familier avec le tri à bulle, mais le tri cocktail ajoute une dimension supplémentaire avec son approche bidirectionnelle, ce qui rend son analyse de performance un peu plus complexe.
